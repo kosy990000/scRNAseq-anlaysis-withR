@@ -2,3 +2,5 @@
 .Renviron
 .Rhistory
 data/raw/
+.config/
+.local/
