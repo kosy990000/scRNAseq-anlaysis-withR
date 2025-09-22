@@ -1,8 +1,0 @@
-install.packages("renv")
-renv::init()
-getwd()
-list.files()
-setwd("/home/rstudio")
-getwd()
-renv::init()
-renv::init()

@@ -1,8 +1,0 @@
-1758510057315:install.packages("renv")
-1758510160776:renv::init()
-1758510196440:getwd()
-1758510304170:list.files()
-1758510330559:setwd("/home/rstudio")
-1758510335113:getwd()
-1758510340908:renv::init()
-1758510425492:renv::init()
